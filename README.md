@@ -2,6 +2,7 @@
 <h5>Sou um programador a quase um ano, e me interesso por diversas áreas da tecnologia, com iot, desenvolvimento web e também data science. Assim como outros programadores tenho:</h5>
  <img align="right" height="300" width="200" src="https://imgkub.com/images/2022/06/06/wp5812753-pronto.png">
  <div>
+  <!--=======================================   LINGUAGENS   =======================================-->
 <h3>Minhas Linguagens favoritas:</h3>
   
   <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><label>    HTML</label></li>
@@ -11,13 +12,14 @@
 
  </div>
  <div>
+ <!--=======================================   CONTATOS   =======================================-->
   <h3>Contatos</h3>
-<a href="https://www.linkedin.com/in/luiz-gabriel-0aa256241/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=Linkedin&logoColor=Black&color=2465B1" target="_blank"></a>
-<a href = "mailto:luizgabrielgrupe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/luiz_gabriel_13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=6D299E" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luiz-gabriel-0aa256241/" target="_blank"><img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"></a>
+<a href = "mailto:luizgabrielgrupe@gmail.com"><img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/luiz_gabriel_13" target="_blank"><img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank"></a>
 </div>
 <br>
-
+ <!--=======================================   ESTATÍSTICAS   =======================================-->
 <h3>Abaixo estão algumas estatísticas minhas:</h3>
 <br:
 <div align="center">
