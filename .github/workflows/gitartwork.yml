@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: LuizGabe
             # Text on contribution graph 
-            text: Oi
+            text: LuizGabe
        - uses: jasineri/simple-push-action@v1
