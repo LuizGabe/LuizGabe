@@ -26,6 +26,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizGabe&show_icons=true&theme=algolia&border_color=000000&include_all_commits=true&count_private=true"/>
 </div>
  <br>
- <h3>Abaixo tem uma cobrinha comendo meus comits aqui no Github:</h3>
+ <h3>Abaixo tem uma cobrinha comendo meus commits aqui no Github:</h3>
  
  ![Snake animation](https://github.com/LuizGabe/LuizGabe/blob/output/github-contribution-grid-snake.svg)
