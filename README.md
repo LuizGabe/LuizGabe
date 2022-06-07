@@ -15,7 +15,7 @@
  <!--=======================================   CONTATOS   =======================================-->
   <h3>Contatos</h3>
 <a href="https://www.linkedin.com/in/luiz-gabriel-0aa256241/" target="_blank"><img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"></a>
-<a href = "mailto:luizgabrielgrupe@gmail.com"><img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:luizgabrielgrupe@gmail.com"><img height="30" width="35" src="https://imgkub.com/images/2022/06/07/gmail-pronto-1.png" alt="gmail-pronto.png" target="_blank"></a>
 <a href="https://instagram.com/luiz_gabriel_13" target="_blank"><img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank"></a>
 </div>
 <br>
