@@ -22,9 +22,9 @@
 <br>
  <!--=======================================   PROJETOS   =======================================-->
 <h1>Projetos</h1>
-<li>SmartPlant</li>
-<li>AutoSearch</li>
-<li>Lógica de Programação</li>
+<li>SmartPlant (Minha horta inteligente)</li>
+<li>AutoSearch (Um pesquisador automático com python)</li>
+<li>Lógica de Programação (Questões que recebi em meu curso)</li>
 <br>
 
  <!--=======================================   ESTATÍSTICAS   =======================================-->
