@@ -1,4 +1,4 @@
-<h2>Olá, aqui é o Luiz Gabriel.</h2>
+<h2>Olá, aqui é o Luiz Gabriel. Tudo bem?</h2>
 <h4>Sou um programador há quase um ano, e me interesso por diversas áreas da tecnologia, com iot, desenvolvimento web e também data science. Assim como outros programadores tenho:</h4>
  <img align="right" height="300" width="200" src="https://imgkub.com/images/2022/06/06/wp5812753-pronto.png">
  <div>
