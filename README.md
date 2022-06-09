@@ -10,10 +10,6 @@
  <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><label>    JavaScript</label>
  <li><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><label>    Python</label></li>
  <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><label>    C++</label></li>
-
-  
-
- 
  </div>
  <div>
  <!--=======================================   CONTATOS   =======================================-->
@@ -24,6 +20,13 @@
  <h6>Mais a diante eu arrumo a logo do gmail</h6>
 </div>
 <br>
+ <!--=======================================   PROJETOS   =======================================-->
+<h1>Projetos</h1>
+<li>SmartPlant</li>
+<li>AutoSearch</li>
+<li>Lógica de Programação</li>
+<br>
+
  <!--=======================================   ESTATÍSTICAS   =======================================-->
 <h3>Abaixo estão algumas estatísticas minhas:</h3>
 <br:
