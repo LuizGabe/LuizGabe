@@ -22,7 +22,7 @@
 <br>
  <!--=======================================   PROJETOS   =======================================-->
 <h1>Projetos</h1>
-<li><a href="https://github.com/LuizGabe/SmartPlant">SmartPlant </a><h6>(Este repositório é sobre uma hortinha inteligente que estou fazendo para a minha casa)</h6></li>
+<li><a href="https://github.com/LuizGabe/SmartPlant">SmartPlant </a><label>(Este repositório é sobre uma hortinha inteligente que estou fazendo para a minha casa)<label></li>
 <li><a href="https://github.com/LuizGabe/AutoSearchPython">AutoSearch </a><h6>(Um pesquisador automático com python)</h6></li>
 <li><a href="https://github.com/LuizGabe/LogicaProgramacao">Lógica de Programação </a><h6>(Questões que recebi em meu curso)</h6></li>
 <br>
