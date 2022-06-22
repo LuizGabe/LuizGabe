@@ -15,11 +15,10 @@
  <!--=======================================   CONTATOS   =======================================-->
   <h3>Contatos</h3>
 <a href="https://www.linkedin.com/in/luiz-gabriel-0aa256241/" target="_blank"><img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"></a>
-<a href = "mailto:luizgabrielgrupe@gmail.com"><img height="30" width="35" src="https://imgkub.com/images/2022/06/07/gmail-pronto-1.png" alt="gmail-pronto.png" target="_blank"></a>
+<a href = "mailto:luizgabrielgrupe@gmail.com"><img height="48" width="48" src="https://imgkub.com/images/2022/06/22/gmail1.png" alt="gmail-pronto.png" target="_blank"></a>
 <a href="https://instagram.com/luiz_gabriel_13" target="_blank"><img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank"></a>
- <h6>Mais a diante eu arrumo a logo do gmail</h6>
 </div>
-<br>
+
  <!--=======================================   PROJETOS   =======================================-->
 <h1>Projetos</h1>
 <li><a href="https://github.com/LuizGabe/SmartPlant">SmartPlant </a><label>(Este repositório é sobre uma hortinha inteligente que estou fazendo para a minha casa)</label></li>
