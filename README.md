@@ -1,11 +1,11 @@
 <h2>Olá, aqui é o Luiz Gabriel. Tudo bem?</h2>
-<h4>Sou um programador há quase um ano, e me interesso por diversas áreas da tecnologia, com iot, desenvolvimento web e também data science. Assim como outros programadores tenho:</h4>
+<h4>Sou um programador há quase um ano, e me interesso por diversas áreas da tecnologia, com IoT, desenvolvimento web e também data science. Assim como outros programadores tenho:</h4>
 <!--
  <img align="right" height="300" width="200" src="https://imgkub.com/images/2022/06/06/wp5812753-pronto.png">
 -->
 <img align="right" height="400" width="400" src="https://imgkub.com/images/2022/06/22/rick-and-morty1.png">
   <!--=======================================   LINGUAGENS   =======================================-->
-<h3>Minhas Linguagens favoritas:</h3>
+<h3>Minhas Linguagens favoritas</h3>
   
   <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><label>    HTML</label></li>
   <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><label>    CSS</label></li>
@@ -22,12 +22,12 @@
 </div>
 
  <!--=======================================   PROJETOS   =======================================-->
-<h1>Projetos</h1>
-<li><a href="https://github.com/LuizGabe/SmartPlant">SmartPlant </a><label>(Este repositório é sobre uma hortinha inteligente que estou fazendo para a minha casa)</label></li>
-<li><a href="https://github.com/LuizGabe/AutoSearchPython">AutoSearch </a><label>(Um pesquisador automático com python)</label></li>
-<li><a href="https://github.com/LuizGabe/LogicaProgramacao">Lógica de Programação </a><label>(Questões sobre lógica que recebi em meu curso)</label></li>
-<li><a href="https://github.com/LuizGabe/DesenvolvimentoWeb">Desenvolvimento Web </a><label>(Questões sobre desenvolvimento web que recebi em meu curso)</label></li>
-<li><a href="https://github.com/LuizGabe/Projeto-123Bank">Projeto 123Bank </a><label>(Projeto de criação de um app de banco com recursos de Gamificação)</label></li>
+<h3>Projetos</h3>
+<li><a href="https://github.com/LuizGabe/SmartPlant">SmartPlant </a><label>(Este repositório é sobre uma hortinha inteligente que estou fazendo para a minha casa)<h6>Em Progresso</h6></label></li>
+<li><a href="https://github.com/LuizGabe/AutoSearchPython">AutoSearch </a><label>(Um pesquisador automático com python)<h6>Em Progresso</h6></label></li>
+<li><a href="https://github.com/LuizGabe/LogicaProgramacao">Lógica de Programação </a><label>(Questões sobre lógica que recebi em meu curso)<h6>Concluido</h6></label></li>
+<li><a href="https://github.com/LuizGabe/DesenvolvimentoWeb">Desenvolvimento Web </a><label>(Questões sobre desenvolvimento web que recebi em meu curso)<h6>Em Progresso</h6></label></li>
+<li><a href="https://github.com/LuizGabe/Projeto-123Bank">Projeto 123Bank </a><label>(Projeto de criação de um app de banco com recursos de Gamificação)<h6>Em Progresso</h6></label></li>
 <br>
 
  <!--=======================================   ESTATÍSTICAS   =======================================-->
