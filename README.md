@@ -12,7 +12,8 @@
  <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><label>    JavaScript</label>
  <li><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><label>    Python</label></li>
  <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><label>    C++</label></li>
- <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><label>    Java</label></li>
+ <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><label>    React</label></li>
+  <!--<li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><label>    Java</label></li>-->
  </div>
  <div>
  <!--=======================================   CONTATOS   =======================================-->
