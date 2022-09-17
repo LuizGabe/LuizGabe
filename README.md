@@ -27,8 +27,6 @@
 <h3>Projetos</h3>
 <li><a href="https://github.com/LuizGabe/SmartPlant">SmartPlant </a><label>(Este repositório é sobre uma hortinha inteligente que estou fazendo para a minha casa)<h6>Em Progresso</h6></label></li>
 <li><a href="https://github.com/LuizGabe/AutoSearchPython">AutoSearch </a><label>(Um pesquisador automático com python)<h6>Em Progresso</h6></label></li>
-<li><a href="https://github.com/LuizGabe/LogicaProgramacao">Lógica de Programação </a><label>(Questões sobre lógica que recebi em meu curso)<h6>Concluido</h6></label></li>
-<li><a href="https://github.com/LuizGabe/DesenvolvimentoWeb">Desenvolvimento Web </a><label>(Questões sobre desenvolvimento web que recebi em meu curso)<h6>Em Progresso</h6></label></li>
 <li><a href="https://github.com/LuizGabe/Projeto-123Bank">Projeto 123Bank </a><label>(Projeto de criação de um app de banco com recursos de Gamificação)<h6>Em Progresso</h6></label></li>
 <br>
 
