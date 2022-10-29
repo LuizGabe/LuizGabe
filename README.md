@@ -33,11 +33,14 @@
 
  <!--=======================================   ESTATÍSTICAS   =======================================-->
 <h3>Abaixo estão algumas estatísticas minhas:</h3>
-<br:
+<img src="https://komarev.com/ghpvc/?username=LuizGabe&label=Profile%20views&color=0e75b6&style=flat">
+<br/>
 <div align="center">
 <a href="https://github.com/LuizGabe">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGabe&border_color=000000&layout=compact&langs_count=7&theme=algolia"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizGabe&show_icons=true&theme=algolia&border_color=000000&include_all_commits=true&count_private=true"/>
+
+
 </div>
  <br>
  <h3>Abaixo tem uma cobrinha comendo meus commits aqui no Github:</h3>
