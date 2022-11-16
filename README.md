@@ -3,7 +3,7 @@
 <!--
  <img align="right" height="300" width="200" src="https://imgkub.com/images/2022/06/06/wp5812753-pronto.png">
 -->
-<img align="right" height="400" width="400" src="https://imgkub.com/images/2022/06/22/rick-and-morty1.png">
+<img align="right" height="400" width="400" src="./rick-and-morty.png">
   <!--=======================================   LINGUAGENS   =======================================-->
 <h3>Minhas Linguagens favoritas</h3>
   
