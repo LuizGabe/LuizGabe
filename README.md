@@ -25,10 +25,10 @@
 
  <!--=======================================   PROJETOS   =======================================-->
 <h3>Projetos</h3>
+<li><a href="https://github.com/LuizGabe/OpenAiSearchPython">OpenAiSearchPython </a><label>(Projeto que pega os dados de input, pesquisa todos com a api da openAi e depois retorna por meio de TelegramBOT, Docx formatado e arquivo txt limpo.)<h6>Concluído: v1</h6></label></li>
 <li><a href="https://github.com/LuizGabe/SmartPlant">SmartPlant </a><label>(Este repositório é sobre uma hortinha inteligente que estou fazendo para a minha casa)<h6>Em Progresso</h6></label></li>
 <li><a href="https://github.com/LuizGabe/Fema-22A">Fema-22A </a><label>(Este repositório é focado em trabalhos feitos na aula de TI)<h6>Em Progresso</h6></label></li>
-<li><a href="https://github.com/LuizGabe/AutoSearchPython">AutoSearch </a><label>(Uma tentativa de pesquisador automático com python)<h6>Em Progresso</h6></label></li>
-<li><a href="https://github.com/LuizGabe/Projeto-123Bank">Projeto 123Bank </a><label>(Projeto de criação de um app de banco com recursos de Gamificação)<h6>Em Progresso</h6></label></li>
+<li><a href="https://github.com/LuizGabe/MyHomeServer">MyHomeServer </a><label>(Este backend é responsável por coletar os dados de temperatura de um dispositivo ESP01 e armazená-los em um banco de dados.)<h6>Em Progresso</h6></label></li>
 <br>
 
  <!--=======================================   ESTATÍSTICAS   =======================================-->
