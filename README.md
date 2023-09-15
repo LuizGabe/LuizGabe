@@ -34,7 +34,3 @@
 <img src="https://komarev.com/ghpvc/?username=LuizGabe&label=Profile%20views&color=0e75b6&style=flat">
 <br/>
 </div>
- <br>
- <h3>Abaixo tem uma cobrinha comendo meus commits aqui no Github:</h3>
- 
- ![Snake animation](https://github.com/LuizGabe/LuizGabe/blob/output/github-contribution-grid-snake.svg)
