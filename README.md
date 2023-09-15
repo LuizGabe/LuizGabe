@@ -8,7 +8,6 @@
 <h3>Minhas Linguagens favoritas</h3>
   
   <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><label>    HTML</label></li>
-  <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><label>    CSS</label></li>
  <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><label>    JavaScript</label>
  <li><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><label>    Python</label></li>
  <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><label>    C++</label></li>
@@ -20,7 +19,6 @@
   <h3>Contatos</h3>
 <a href="https://www.linkedin.com/in/luiz-gabriel-0aa256241/" target="_blank"><img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"></a>
 <a href = "mailto:luizgabrielgrupe@gmail.com"><img height="48" width="48" src="https://imgkub.com/images/2022/06/22/gmail1.png" alt="gmail-pronto.png" target="_blank"></a>
-<a href="https://instagram.com/luiz_gabriel_13" target="_blank"><img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank"></a>
 </div>
 
  <!--=======================================   PROJETOS   =======================================-->
