@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="176" viewBox="0 0 1000 176" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="132" viewBox="0 0 1000 132" role="img" aria-labelledby="title desc">
   <title id="title">Aether</title>
   <desc id="desc">Personal finances, with a local home.</desc>
-  <rect x="1" y="1" width="998" height="174" rx="18" fill="#141d19" stroke="#2c4236"/>
-  <path d="M18 35q-3 51 0 106" fill="none" stroke="#93cbb0" stroke-width="3" stroke-linecap="round"/>
-  <rect x="31" y="29" width="118" height="118" rx="24" fill="#203027"/>
-  <defs><clipPath id="icon-clip"><rect x="39" y="37" width="102" height="102" rx="16"/></clipPath></defs>
-  <g clip-path="url(#icon-clip)"><svg xmlns="http://www.w3.org/2000/svg" width="102" height="102" viewBox="0 0 180 164" fill="none" role="img" aria-labelledby="title desc" x="39" y="37" aria-hidden="true">
+  <rect x="1" y="1" width="998" height="130" rx="16" fill="#141d19" stroke="#2c4236"/>
+  <path d="M18 26q-3 40 0 80" fill="none" stroke="#93cbb0" stroke-width="3" stroke-linecap="round"/>
+  <rect x="31" y="18" width="96" height="96" rx="20" fill="#203027"/>
+  <defs><clipPath id="icon-clip"><rect x="31" y="18" width="96" height="96" rx="20"/></clipPath></defs>
+  <g clip-path="url(#icon-clip)"><svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 180 164" fill="none" role="img" aria-labelledby="title desc" x="39" y="26" aria-hidden="true">
   <defs>
     <linearGradient id="rear" x1="69" y1="12" x2="145" y2="58" gradientUnits="userSpaceOnUse">
       <stop stop-color="#B1D8C7" />
@@ -36,11 +36,11 @@
   </g>
 </svg></g>
   <g font-family="'Segoe UI', Arial, sans-serif">
-    <text x="178" y="46" font-family="Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#93cbb0">FINANCE / DESKTOP / INTEGRATIONS</text>
-    <text x="176" y="94" font-size="38" font-weight="650" letter-spacing="-1" fill="#e6edf3">Aether</text>
-    <text x="178" y="128" font-size="18" fill="#b0b7be">Personal finances, with a local home.</text>
-    <text x="950" y="42" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#93cbb0">02 /</text>
+    <text x="152" y="32" font-family="Consolas, monospace" font-size="12" letter-spacing="1.5" fill="#93cbb0">FINANCE / DESKTOP / INTEGRATIONS</text>
+    <text x="150" y="75" font-size="34" font-weight="650" letter-spacing="-1" fill="#e6edf3">Aether</text>
+    <text x="152" y="104" font-size="17" fill="#b0b7be">Personal finances, with a local home.</text>
+    <text x="950" y="30" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#93cbb0">02 /</text>
   </g>
-  <path d="M0 48l14-17 13 7 17-25 16 4m-14-4h14v14" transform="translate(862 65)" fill="none" stroke="#93cbb0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
-  <path d="M853 138q35-4 82 0m-77 4q33-3 68 0" fill="none" stroke="#93cbb0" stroke-width="1.2" stroke-linecap="round" opacity="0.35"/>
+  <path d="M0 48l14-17 13 7 17-25 16 4m-14-4h14v14" transform="translate(870 43) scale(0.75)" fill="none" stroke="#93cbb0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+  <path d="M862 104q29-4 64 0m-59 4q25-3 51 0" fill="none" stroke="#93cbb0" stroke-width="1.2" stroke-linecap="round" opacity="0.35"/>
 </svg>
