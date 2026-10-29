@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="36" viewBox="0 0 126 36" role="img" aria-label="LinkedIn">
+  <rect x="1" y="1" width="124" height="34" rx="7" fill="#0a66c2"/>
+  <path d="M14 10h16v16H14z" fill="#fff"/>
+  <g fill="#0a66c2"><circle cx="17.5" cy="13.5" r="1.2"/><path d="M16.4 16h2.2v7h-2.2zm4 0h2.1v1c.6-.9 3.9-2 3.9 2.4V23h-2.2v-3.4c0-2-1.7-1.8-1.7 0V23h-2.1z"/></g>
+  <text x="40" y="23" fill="#fff" font-family="Arial, sans-serif" font-size="14">LinkedIn</text>
+</svg>

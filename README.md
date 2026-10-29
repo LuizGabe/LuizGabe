@@ -1,7 +1,10 @@
 **English** · [Português](README.pt-BR.md)
 
 <p align="center">
-  <img src="assets/notebook-header.svg" alt="Luiz Gabriel — a sketchbook of backend systems, automation and experiments" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/notebook-header-dark.svg">
+    <img src="assets/notebook-header.svg" alt="Luiz Gabriel — a sketchbook of backend systems, automation and experiments" width="100%">
+  </picture>
 </p>
 
 I build backends and automations that turn ideas into useful tools. My interests span personal finance, IoT and proofs of concept — especially where services, data and devices meet.
@@ -17,14 +20,14 @@ A platform for recording or uploading audio, transcribing it and generating docu
 
 `TypeScript` · `Fastify` · `Python` · `PostgreSQL` · `Redis / BullMQ` · `MinIO`
 
-#### Aether
+#### [Aether](https://github.com/LuizGabe/Aether)
 **Personal finances, with a local home.**
 
 A Windows desktop application for organizing accounts, cards, investments and transactions. It combines bank integrations through Pluggy with a local backend, SQLite storage and encrypted backup exports.
 
 `Java 21` · `Spring Boot` · `SQLite` · `Tauri` · `React / TypeScript`
 
-<sub>Private repository.</sub>
+[Latest release / Windows installer →](https://github.com/LuizGabe/Aether/releases/latest)
 
 #### [CAEGS Shop](https://github.com/LuizGabe/caegs-shop)
 **Student merchandise, from checkout to pickup.**
@@ -46,4 +49,15 @@ Most of my recent work uses **TypeScript, Java and Python**, with **PostgreSQL, 
 
 Happy to exchange ideas about backend engineering, automation and useful experiments.
 
-[LinkedIn](https://www.linkedin.com/in/luiz-gabriel-0aa256241/) · [Email](mailto:luizgabrielgrupe@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/luiz-gabriel-0aa256241/"><img src="assets/contact-linkedin.svg" alt="LinkedIn" width="126" height="36"></a>&nbsp;
+  <a href="mailto:luizgabrielgrupe@gmail.com"><img src="assets/contact-email.svg" alt="Email: luizgabrielgrupe@gmail.com" width="126" height="36"></a>
+</p>
+<p>
+  <a href="https://github.com/LuizGabe?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/profile-stats-dark.svg">
+      <img src="assets/profile-stats-light.svg" alt="Public GitHub profile: repositories, followers and stars" width="100%">
+    </picture>
+  </a>
+</p>
