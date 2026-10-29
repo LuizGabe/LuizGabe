@@ -13,15 +13,23 @@ I like following an idea through the whole system: the API, the background jobs,
 
 ### 01 / Selected projects
 
-#### [Nebula](https://github.com/LuizGabe/Nebula)
-**From recorded audio to useful documents.**
+<a href="https://github.com/LuizGabe/Nebula">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/nebula-dark-en.svg">
+    <img src="assets/projects/nebula-light-en.svg" alt="Nebula" width="100%">
+  </picture>
+</a>
 
 A platform for recording or uploading audio, transcribing it and generating documents with AI. Behind the interface, an asynchronous pipeline coordinates storage, transcription workers and document generation.
 
 `TypeScript` · `Fastify` · `Python` · `PostgreSQL` · `Redis / BullMQ` · `MinIO`
 
-#### [Aether](https://github.com/LuizGabe/Aether)
-**Personal finances, with a local home.**
+<a href="https://github.com/LuizGabe/Aether">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/aether-dark-en.svg">
+    <img src="assets/projects/aether-light-en.svg" alt="Aether" width="100%">
+  </picture>
+</a>
 
 A Windows desktop application for organizing accounts, cards, investments and transactions. It combines bank integrations through Pluggy with a local backend, SQLite storage and encrypted backup exports.
 
@@ -29,8 +37,12 @@ A Windows desktop application for organizing accounts, cards, investments and tr
 
 [Latest release / Windows installer →](https://github.com/LuizGabe/Aether/releases/latest)
 
-#### [CAEGS Shop](https://github.com/LuizGabe/caegs-shop)
-**Student merchandise, from checkout to pickup.**
+<a href="https://github.com/LuizGabe/caegs-shop">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/caegs-dark-en.svg">
+    <img src="assets/projects/caegs-light-en.svg" alt="CAEGS Shop" width="100%">
+  </picture>
+</a>
 
 A commerce platform for the Software Engineering Academic Center. It connects product sales to Asaas PIX payments and supports the work behind each order: payment webhooks, production batches and pickup management.
 

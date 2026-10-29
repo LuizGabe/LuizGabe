@@ -13,15 +13,23 @@ Gosto de acompanhar uma ideia por todo o sistema: a API, as tarefas em segundo p
 
 ### 01 / Projetos em destaque
 
-#### [Nebula](https://github.com/LuizGabe/Nebula)
-**Do áudio gravado a documentos úteis.**
+<a href="https://github.com/LuizGabe/Nebula">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/nebula-dark-pt-BR.svg">
+    <img src="assets/projects/nebula-light-pt-BR.svg" alt="Nebula" width="100%">
+  </picture>
+</a>
 
 Uma plataforma para gravar ou enviar áudios, transcrever o conteúdo e gerar documentos com IA. Por trás da interface, um pipeline assíncrono coordena armazenamento, workers de transcrição e geração de documentos.
 
 `TypeScript` · `Fastify` · `Python` · `PostgreSQL` · `Redis / BullMQ` · `MinIO`
 
-#### [Aether](https://github.com/LuizGabe/Aether)
-**Finanças pessoais, com espaço no seu computador.**
+<a href="https://github.com/LuizGabe/Aether">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/aether-dark-pt-BR.svg">
+    <img src="assets/projects/aether-light-pt-BR.svg" alt="Aether" width="100%">
+  </picture>
+</a>
 
 Um aplicativo desktop para Windows que organiza contas, cartões, investimentos e transações. Combina integrações bancárias via Pluggy com backend local, armazenamento SQLite e exportação de backups criptografados.
 
@@ -29,8 +37,12 @@ Um aplicativo desktop para Windows que organiza contas, cartões, investimentos 
 
 [Última release / Instalador para Windows →](https://github.com/LuizGabe/Aether/releases/latest)
 
-#### [CAEGS Shop](https://github.com/LuizGabe/caegs-shop)
-**Produtos para estudantes, do pagamento à retirada.**
+<a href="https://github.com/LuizGabe/caegs-shop">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/caegs-dark-pt-BR.svg">
+    <img src="assets/projects/caegs-light-pt-BR.svg" alt="CAEGS Shop" width="100%">
+  </picture>
+</a>
 
 Uma plataforma de vendas para o Centro Acadêmico de Engenharia de Software. Conecta a venda de produtos a pagamentos PIX pelo Asaas e apoia a operação de cada pedido: webhooks de pagamento, lotes de produção e gestão de retiradas.
 
