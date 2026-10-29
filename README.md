@@ -1,36 +1,49 @@
-<h2>Olá, aqui é o Luiz Gabriel. Tudo bem?</h2>
-<h4>Sou um programador há quase um ano, e me interesso por diversas áreas da tecnologia, com IoT, desenvolvimento web e também data science. Assim como outros programadores tenho:</h4>
-<!--
- <img align="right" height="300" width="200" src="https://imgkub.com/images/2022/06/06/wp5812753-pronto.png">
--->
-<img align="right" height="400" width="400" src="./rick-and-morty.png">
-  <!--=======================================   LINGUAGENS   =======================================-->
-<h3>Minhas Linguagens favoritas</h3>
-  
-  <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><label>    HTML</label></li>
- <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><label>    JavaScript</label>
- <li><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><label>    Python</label></li>
- <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><label>    C++</label></li>
- <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><label>    React</label></li>
-  <!--<li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><label>    Java</label></li>-->
- </div>
- <div>
- <!--=======================================   CONTATOS   =======================================-->
-  <h3>Contatos</h3>
-<a href="https://www.linkedin.com/in/luiz-gabriel-0aa256241/" target="_blank"><img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"></a>
-<a href = "mailto:luizgabrielgrupe@gmail.com"><img height="48" width="48" src="https://imgkub.com/images/2022/06/22/gmail1.png" alt="gmail-pronto.png" target="_blank"></a>
-</div>
+**English** · [Português](README.pt-BR.md)
 
- <!--=======================================   PROJETOS   =======================================-->
-<h3>Projetos</h3>
-<li><a href="https://github.com/LuizGabe/OpenAiSearchPython">OpenAiSearchPython </a><label>(Projeto que pega os dados de input, pesquisa todos com a api da openAi e depois retorna por meio de TelegramBOT, Docx formatado e arquivo txt limpo.)<h6>Concluído: v1</h6></label></li>
-<li><a href="https://github.com/LuizGabe/SmartPlant">SmartPlant </a><label>(Este repositório é sobre uma hortinha inteligente que estou fazendo para a minha casa)<h6>Em Progresso</h6></label></li>
-<li><a href="https://github.com/LuizGabe/Fema-22A">Fema-22A </a><label>(Este repositório é focado em trabalhos feitos na aula de TI)<h6>Em Progresso</h6></label></li>
-<li><a href="https://github.com/LuizGabe/MyHomeServer">MyHomeServer </a><label>(Este backend é responsável por coletar os dados de temperatura de um dispositivo ESP01 e armazená-los em um banco de dados.)<h6>Em Progresso</h6></label></li>
-<br>
+<p align="center">
+  <img src="assets/notebook-header.svg" alt="Luiz Gabriel — a sketchbook of backend systems, automation and experiments" width="100%">
+</p>
 
- <!--=======================================   ESTATÍSTICAS   =======================================-->
-<h3>Abaixo estão algumas estatísticas minhas:</h3>
-<img src="https://komarev.com/ghpvc/?username=LuizGabe&label=Profile%20views&color=0e75b6&style=flat">
-<br/>
-</div>
+I build backends and automations that turn ideas into useful tools. My interests span personal finance, IoT and proofs of concept — especially where services, data and devices meet.
+
+I like following an idea through the whole system: the API, the background jobs, the integrations and the infrastructure that keeps it running.
+
+### 01 / Selected projects
+
+#### [Nebula](https://github.com/LuizGabe/Nebula)
+**From recorded audio to useful documents.**
+
+A platform for recording or uploading audio, transcribing it and generating documents with AI. Behind the interface, an asynchronous pipeline coordinates storage, transcription workers and document generation.
+
+`TypeScript` · `Fastify` · `Python` · `PostgreSQL` · `Redis / BullMQ` · `MinIO`
+
+#### Aether
+**Personal finances, with a local home.**
+
+A Windows desktop application for organizing accounts, cards, investments and transactions. It combines bank integrations through Pluggy with a local backend, SQLite storage and encrypted backup exports.
+
+`Java 21` · `Spring Boot` · `SQLite` · `Tauri` · `React / TypeScript`
+
+<sub>Private repository.</sub>
+
+#### [CAEGS Shop](https://github.com/LuizGabe/caegs-shop)
+**Student merchandise, from checkout to pickup.**
+
+A commerce platform for the Software Engineering Academic Center. It connects product sales to Asaas PIX payments and supports the work behind each order: payment webhooks, production batches and pickup management.
+
+`TypeScript` · `Fastify` · `PostgreSQL` · `Prisma` · `Google OIDC` · `Asaas`
+
+### 02 / What I work with
+
+- **Backend systems:** APIs, authentication, data modeling and service integrations.
+- **Automation:** background processing, queues and workflows that connect tools.
+- **Finance:** transaction data, bank integrations and payment flows.
+- **Experiments & IoT:** proofs of concept, connected devices and ideas worth testing.
+
+Most of my recent work uses **TypeScript, Java and Python**, with **PostgreSQL, Redis and Docker** supporting the systems around them.
+
+### 03 / Let's connect
+
+Happy to exchange ideas about backend engineering, automation and useful experiments.
+
+[LinkedIn](https://www.linkedin.com/in/luiz-gabriel-0aa256241/) · [Email](mailto:luizgabrielgrupe@gmail.com)
