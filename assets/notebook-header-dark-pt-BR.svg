@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360" role="img" aria-labelledby="title desc">
+  <title id="title">Luiz Gabriel</title>
+  <desc id="desc">Um caderno quadriculado transparente com caixas desenhadas conectando uma API a uma fila e a um worker. Backend, automação e experimentos.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0 H0 V24" fill="none" stroke="#46564e" stroke-width="0.7"/>
+    </pattern>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto">
+      <path d="M1 1 L8 4 L1 7" fill="none" stroke="#91c9ac" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="16" y="16" width="1068" height="328" rx="8" fill="url(#grid)"/>
+  <path d="M65 18 L63 342" fill="none" stroke="#94786d" stroke-width="1.3" opacity="0.7"/>
+  <g fill="#e6edf3" font-family="'Segoe UI', Arial, sans-serif">
+    <text x="99" y="69" font-family="Consolas, monospace" font-size="14" letter-spacing="2" fill="#a4b5ac">ANOTAÇÕES DA MINHA BANCADA</text>
+    <text x="96" y="143" font-size="55" font-weight="700" letter-spacing="-2">Luiz Gabriel</text>
+    <path d="M99 159 Q224 152 397 160 M102 164 Q254 157 368 163" fill="none" stroke="#e4bc78" stroke-width="3" stroke-linecap="round"/>
+    <text x="99" y="204" font-size="21">Backend. Automação. Experimentos.</text>
+    <text x="99" y="249" font-size="16" fill="#a4b5ac">Finanças / IoT / provas de conceito</text>
+    <text x="99" y="310" font-family="Consolas, monospace" font-size="14" fill="#a4b5ac">uma ideia → um sistema funcionando</text>
+  </g>
+  <g fill="none" stroke="#91c9ac" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M628 96 Q671 91 726 97 L729 161 Q680 164 627 160 Z"/>
+    <path d="M631 99 L629 158" opacity="0.35"/>
+    <path d="M819 95 Q880 99 944 94 L946 162 Q885 159 820 163 Z"/>
+    <path d="M821 100 Q882 103 941 98" opacity="0.35"/>
+    <path d="M730 129 Q770 119 810 128" marker-end="url(#arrow)"/>
+    <path d="M886 164 Q903 195 884 219" marker-end="url(#arrow)"/>
+    <path d="M819 231 Q880 227 947 232 L943 292 Q885 297 818 290 Z"/>
+    <path d="M814 264 Q755 289 690 261 Q665 241 678 175" stroke-dasharray="5 7" marker-end="url(#arrow)"/>
+    <path d="M996 61 L992 78 M985 68 L1003 71" stroke="#e4bc78"/>
+  </g>
+  <g fill="#e6edf3" font-family="Consolas, monospace" font-size="19" text-anchor="middle">
+    <text x="678" y="136">API</text>
+    <text x="882" y="136">fila</text>
+    <text x="882" y="269">worker</text>
+  </g>
+  <g fill="#a4b5ac" font-family="'Segoe Print', 'Comic Sans MS', cursive" font-size="15">
+    <text x="745" y="108" transform="rotate(-7 745 108)">enfileirar</text>
+    <text x="920" y="201" transform="rotate(5 920 201)">processar</text>
+    <text x="698" y="310" transform="rotate(-4 698 310)">pequenos passos, ferramentas úteis.</text>
+  </g>
+</svg>

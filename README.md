@@ -50,7 +50,8 @@ Most of my recent work uses **TypeScript, Java and Python**, with **PostgreSQL, 
 Happy to exchange ideas about backend engineering, automation and useful experiments.
 
 <p>
-  <a href="https://www.linkedin.com/in/luiz-gabriel-0aa256241/"><img src="assets/contact-linkedin.svg" alt="LinkedIn" width="126" height="36"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/luizgabe/"><img src="assets/contact-linkedin.svg" alt="LinkedIn" width="126" height="36"></a>&nbsp;
+  <a href="https://www.instagram.com/luiz.gabe_/"><img src="assets/contact-instagram.svg" alt="Instagram: @luiz.gabe_" width="126" height="36"></a>&nbsp;
   <a href="mailto:luizgabrielgrupe@gmail.com"><img src="assets/contact-email.svg" alt="Email: luizgabrielgrupe@gmail.com" width="126" height="36"></a>
 </p>
 <p>

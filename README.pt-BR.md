@@ -2,8 +2,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/notebook-header-dark.svg">
-    <img src="assets/notebook-header.svg" alt="Luiz Gabriel — um caderno de sistemas backend, automações e experimentos" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/notebook-header-dark-pt-BR.svg">
+    <img src="assets/notebook-header-pt-BR.svg" alt="Luiz Gabriel — um caderno de sistemas backend, automações e experimentos" width="100%">
   </picture>
 </p>
 
@@ -50,14 +50,15 @@ Meus trabalhos recentes usam principalmente **TypeScript, Java e Python**, com *
 Aberto a trocar ideias sobre engenharia de backend, automação e experimentos úteis.
 
 <p>
-  <a href="https://www.linkedin.com/in/luiz-gabriel-0aa256241/"><img src="assets/contact-linkedin.svg" alt="LinkedIn" width="126" height="36"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/luizgabe/"><img src="assets/contact-linkedin.svg" alt="LinkedIn" width="126" height="36"></a>&nbsp;
+  <a href="https://www.instagram.com/luiz.gabe_/"><img src="assets/contact-instagram.svg" alt="Instagram: @luiz.gabe_" width="126" height="36"></a>&nbsp;
   <a href="mailto:luizgabrielgrupe@gmail.com"><img src="assets/contact-email.svg" alt="Email: luizgabrielgrupe@gmail.com" width="126" height="36"></a>
 </p>
 <p>
   <a href="https://github.com/LuizGabe?tab=repositories">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/profile-stats-dark.svg">
-      <img src="assets/profile-stats-light.svg" alt="Perfil público no GitHub: repositórios, seguidores e estrelas" width="100%">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/profile-stats-dark-pt-BR.svg">
+      <img src="assets/profile-stats-light-pt-BR.svg" alt="Perfil público no GitHub: repositórios, seguidores e estrelas" width="100%">
     </picture>
   </a>
 </p>
