@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-labelledby="title desc">
   <title id="title">Luiz Gabriel — public GitHub profile</title>
-  <desc id="desc">16 public repositories, 26 followers and 3 stars on owned public repositories. Updated 2026-10-30 UTC.</desc>
+  <desc id="desc">16 public repositories, 26 followers and 3 stars on owned public repositories. Updated 2026-10-31 UTC.</desc>
   <path d="M17 22 Q480 14 981 23 L977 248 Q487 255 20 247 Z" fill="none" stroke="#b8c9be" stroke-width="1.6"/>
   <path d="M22 27 Q480 20 973 28" fill="none" stroke="#b8c9be" stroke-width="1" opacity="0.5"/>
   <g font-family="'Segoe UI', Arial, sans-serif">
@@ -12,7 +12,7 @@
         <path d="M380 189 q70 -5 168 0" fill="none" stroke="#376653" stroke-width="2" stroke-linecap="round"/><text x="680" y="143" font-size="44" font-weight="700" fill="#293b34">3</text>
         <text x="680" y="175" font-size="17" fill="#576b60">repo stars</text>
         <path d="M680 189 q70 -5 168 0" fill="none" stroke="#376653" stroke-width="2" stroke-linecap="round"/>
-    <text x="48" y="228" font-size="12" fill="#576b60">Public data only · updated 2026-10-30 UTC</text>
+    <text x="48" y="228" font-size="12" fill="#576b60">Public data only · updated 2026-10-31 UTC</text>
     <text x="782" y="228" font-size="14" fill="#376653">@LuizGabe ↗</text>
   </g>
 </svg>
